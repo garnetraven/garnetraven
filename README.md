@@ -1,5 +1,5 @@
 - 👋 Greetings, I’m @garnetraven
-- 👀 I’m interested in web dev, software dev, fitness, and soccer
+- 👀 I’m interested in web dev and software dev.
 - 🌱 I’m currently learning python
 - 💞️ I’m open to collaborate on anything
 - 📫 How to reach me: Corbinchristopher1@gmail.com
