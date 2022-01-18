@@ -1,10 +1,4 @@
-- 👋 Greetings, I’m @garnetraven
-- 👀 I’m interested in web dev and software dev.
-- 🌱 I’m currently learning python
-- 💞️ I’m open to collaborate on anything
-- 📫 How to reach me: Corbinchristopher1@gmail.com
-
-<!---
-garnetraven/garnetraven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Ello!, I’m Corbin
+- 🌱 I’m currently learning Web Development & Python
+- Lets Collaborate on anything!
+- 📫 Reach out: Corbinchristopher1@gmail.com
