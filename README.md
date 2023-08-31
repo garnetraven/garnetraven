@@ -1,4 +1,2 @@
-- 👋 Ello!, I’m Corbin
-- 🌱 I’m currently learning Web Development
-- Lets Collaborate on anything!
-- 📫 Reach out: Corbinchristopher1@gmail.com
+- Hello!, I’m Corbin
+- Reach out: Corbinchristopher1@gmail.com
