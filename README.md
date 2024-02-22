@@ -1,3 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img>
 </p>
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="![image](https://github.com/garnetraven/garnetraven/assets/94313301/c0b2004b-23a2-4f34-9480-0ba55af62b19)
+"/>
+</a>
