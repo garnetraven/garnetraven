@@ -1,5 +1,5 @@
 <h1 align="center"> 🚀 Hi, I'm Corbin Lienau </h1>
-<h3 align="center">A passionate software engineering</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 * 🔥 I'm grinding leetcode.
 * 🌱 & currently learning __C__ & __C++__.
