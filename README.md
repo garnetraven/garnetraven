@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on college courses<br>👯 I’m looking to collaborate on machine learning projects<br>🌱 I’m currently learning Java Spring Boot<br>💬 Linux User<br>⚡ I use NeoVim
+🔭 I’m currently looking for a SWE job<br>👯 I’m looking to collaborate on machine learning projects<br>🌱 I’m currently learning Java Spring Boot<br>💬 Linux User<br>⚡ I use NeoVim
 
 
 ## 🌐 Socials:
